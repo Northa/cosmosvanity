@@ -44,7 +44,7 @@ $ sha256sum ./umee_vanity
 </details>
 
 ## Usage examples
-Find an address that starts with "drew" (e.g. umee1drewfmzk3a90m2ldkhxq0q7haaewkvfges05h0)
+Find an address that starts with "drew" (e.g. [umee1drewfmzk3a90m2ldkhxq0q7haaewkvfges05h0](https://explorer-umeevengers.nodes.guru/accounts/umee1drewfmzk3a90m2ldkhxq0q7haaewkvfges05h0))
 ```sh
 ./umee_vanity --startswith drew
 :::: Matching wallet 1/1 found ::::
